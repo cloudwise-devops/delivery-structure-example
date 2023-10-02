@@ -1,0 +1,12 @@
+general:
+  env: prod
+  parameter: 3
+
+frontend:
+  image: frontend
+  imageTag: 1.0.0-prod-fe
+  randomValue: aaaa
+
+backend:
+  image: backend
+  imageTag: 1.0.0-prod-backend

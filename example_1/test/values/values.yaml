@@ -1,0 +1,12 @@
+general:
+  env: test
+  parameter: 2
+
+frontend:
+  image: frontend
+  imageTag: 0.0.2-test
+  randomValue: aaaa
+
+backend:
+  image: backend
+  imageTag: 0.0.2-test
