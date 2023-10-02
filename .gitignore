@@ -1,0 +1,4 @@
+.idea/*
+**/charts
+.DS_Store
+!external/mcrouter/charts
